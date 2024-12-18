@@ -1,2 +1,2 @@
-*****to run the code 
-***./main
+### to run the code 
+## ./main
